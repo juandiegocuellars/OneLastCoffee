@@ -19,7 +19,8 @@ Which are the main characteristics to predict if an user will take an offer in t
 
 ## File Descriptions <a name="files"></a>
 
-The Data folder contains the data to work through the notebook. This is the data schema:
+The Data folder contains the data to work through the notebook. This is the data schema
+
 **portfolio.json**
 * id (string) - offer id
 * offer_type (string) - type of offer ie BOGO, discount, informational
