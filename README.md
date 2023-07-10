@@ -14,8 +14,8 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation<a name="motivation"></a>
 
-This is my last project of my Udacity's DataScience Nanodegree program. For this project, I was interestested in simulated data that mimics customer behavior on the Starbucks rewards mobile app to find the main characteristics of the customers who redem the mobile app offers. 
-
+This is my last project of my Udacity's DataScience Nanodegree program. For this project, I was interestested in simulated data that mimics customer behavior on the Starbucks rewards mobile app to resolve the next question: 
+Which are the main characteristics to predict if an user will take an offer in the App?
 ## File Descriptions <a name="files"></a>
 
 There is 1 Jupyter notebook available here to showcase work related to the above questions. The notebooks is exploratory in searching through the data pertaining to the questions showcased by the motivation project.  Markdown cells were used to assist in walking through the thought process for individual steps.  
