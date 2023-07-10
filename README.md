@@ -22,9 +22,9 @@ There is 1 Jupyter notebook available here to showcase work related to the above
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@juandiegocuellar02/how-was-the-tech-field-in-2017-in-terms-of-breach-salary-remote-working-and-languages-caa07d56fc8c).
+The main findings of the code can be found at the post available [here](https://medium.com/@juandiegocuellar02/starbucks-app-you-are-one-of-those-people-who-buys-only-when-they-recieve-offers-6a609d7df1f9).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data).  Otherwise, feel free to use the code here as you would like! 
+Must give credit to Udacity who gave it to me the data to work with.  Otherwise, feel free to use the code here as you would like! 
 
